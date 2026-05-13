@@ -46,7 +46,6 @@ student-management-system/
 │   ├── list.jsp
 │   └── edit.jsp
 │
-└── pom.xml
 ```
 
 ---
